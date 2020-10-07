@@ -5,7 +5,7 @@ A complete tensorflow pipeline for training, inference and feature extraction no
 
 - [Brief overview of the competition data](#Brief-overview-of-the-competition-data)
 - [Notebooks description](#Notebooks-description)
-  - [Feature Engineering] notebook](#Feature-Engineering)
+  - [Feature Engineering notebook](#Feature-Engineering-notebook)
   - [[TRAIN] notebook](#TRAIN-notebook)
   - [[INFERENCE] Submission notebook](#INFERENCE-Submission-notebook)
 - [How to use](#How-to-use)
